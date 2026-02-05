@@ -1,0 +1,46 @@
+.logo-container {
+  inset: 0;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background: transparent;
+
+  p {
+    position: absolute;
+    left: 55%;
+    top: 90%;
+    right: 0;
+    transform: translateY(-50%);
+    width: auto;
+    color: #f6d30e8d;
+    font-family: 'Coolvetica';
+    font-size: 20px;
+  }
+
+  .subtitle {
+    position: absolute;
+    // left: 55%;
+    top: 100%;
+    right: 10%;
+    transform: translateY(-50%);
+    width: auto;
+    color: #f6d30e8d;
+    font-family: 'Coolvetica';
+    font-size: 20px;
+  }
+
+  .solid-logo {
+  
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 30%;
+    max-height: 90%;
+    opacity: 0;
+    z-index: 2;
+}
+}
+
