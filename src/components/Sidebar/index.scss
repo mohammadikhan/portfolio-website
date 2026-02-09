@@ -95,6 +95,12 @@ nav {
         }
     }
 
+     a.certifications {
+        &:after {
+            content: 'CERTS';
+        }
+    }
+
     a.contact {
         &:after {
             content: 'CONTACT';
