@@ -1,0 +1,35 @@
+{
+    "projects": [
+        {
+            "cover": "/projects/FND.png",
+            "title": "VeriNews - AI-Powered Fake News Detector",
+            "stack": "JavaScript, Python, Node.js, React, Hugging Face Transformers, Docker, MongoDB",
+            "url": "https://github.com/mohammadikhan/fake-news-detector"
+        },
+         {
+            "cover": "/projects/RM.png",
+            "title": "Restaurant Managment System Application",
+            "stack": "C, QNX Neutrino, QNX Momentics, QDB Database",
+            "url": "https://github.com/seanchung2001/Restaurant-Management-System-Application"
+        },
+        {
+            "cover": "/projects/EC.png",
+            "title": "E-Commerce Web Application",
+            "stack": "JavaScript, Node.js, Express.js, React, Material-UI, Redux, MongoDB",
+            "url": "https://github.com/mohammadikhan/E-Commerce-Web-App"
+        },
+       
+        {
+            "cover": "/projects/LIB.png",
+            "title": "Look Inna Book",
+            "stack": "JavaScript, Express.js, PUG, CSS, PostgreSQL",
+            "url": "https://github.com/mohammadikhan/LookInnaBook"
+        },
+        {
+            "cover": "/projects/P.png",
+            "title": "Portfolio Website",
+            "stack": "JavaScript, React, React Router, SCSS, EmailJS",
+            "url": "https://github.com/mohammadikhan/portfolio-website"
+        }
+    ]
+}
