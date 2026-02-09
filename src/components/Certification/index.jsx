@@ -53,7 +53,8 @@ const Certification = () => {
                 <h1 className='page-title'>
                     <AnimatedLetters letterClass={letterClass} strArray={"Certifications".split("")} idx={15}/>
                 </h1>
-                <p className='cert-description'>I'm always looking to expand my skillset and learn about new technologies. Obtaining certifications has helped me learn more about the tools and technologies that I use. Check out what I'm certified in!</p>
+                <p className='cert-description'>I'm always looking to expand my skillset and learn about new technologies. Obtaining certifications has helped me learn more about the tools and technologies that I use.</p>
+                <p className='cert-description'>Check out what I'm certified in!</p>
                 <div>{renderCertifications(certificationData.certifications)}</div>
             </div>
         <Loader type="pacman"/>
