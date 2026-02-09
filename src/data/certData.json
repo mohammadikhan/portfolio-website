@@ -1,0 +1,39 @@
+{
+    "certifications": [
+        {
+            "cover": "/certs/AWSCCP.png",
+            "title": "AWS Certified Cloud Practitioner",
+            "issuer": "Amazon Web Services (AWS)",
+            "date": "June 8th, 2023",
+            "credentialUrl": "https://www.credly.com/badges/48002343-28ba-4bb5-b050-2d4d394e74e0/linked_in_profile"
+        },
+        {
+            "cover": "certs/AWSCDA.png",
+            "title": "AWS Certified Developer - Associate",
+            "issuer": "Amazon Web Services (AWS)",
+            "date": "June 14th, 2024",
+            "credentialUrl": "https://www.credly.com/badges/6da4c9a3-3cd8-4f3a-b36b-475eb21bc090/linked_in_profile"
+        },
+        {
+            "cover": "/certs/KCNA.png",
+            "title": "Kubernetes and Cloud Native Associate (KCNA)",
+            "issuer": "CNCF (Cloud Native Computing Foundation)",
+            "date": "August 17th, 2024",
+            "credentialUrl": "https://www.credly.com/badges/6a499525-71f6-40ba-ae36-4abcd38f6626/linked_in_profile"
+        },
+        {
+            "cover": "/certs/LE.png",
+            "title": "Linux Essentials",
+            "issuer": "Linux Professional Institute (LPI)",
+            "date": "September 20th, 2024",
+            "credentialUrl": "https://cs.lpi.org/caf/Xamman/certification/verify/LPI000629516/b9angrd33w"
+        },
+        {
+            "cover": "/certs/HCTA.png",
+            "title": "HashiCorp Certified: Terraform Associate",
+            "issuer": "HashiCorp",
+            "date": "July 26th, 2025",
+            "credentialUrl": "https://www.credly.com/badges/06f360ca-312b-4e0f-98bf-0a23703e7922/linked_in_profile"
+        }
+    ]
+}
