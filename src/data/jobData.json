@@ -1,0 +1,16 @@
+{
+    "jobs": [
+        {
+            "company": "Tread Inc.",
+            "logo": "/jobs/Tread.png",
+            "position": "Software Developer (Co-Op)",
+            "duration": "January 2022 - August 2022",
+            "location": "Toronto, ON",
+            "description": ["Developed reusable <strong>React</strong> components for truck driver dashboards which reduced payroll disputes by <strong>95%</strong>",
+            "Automated subcontractor scheduling with advanced <strong>React</strong> calendar features, cutting manual data entry and improving scheduling accuracy by <strong>50%</strong>",
+            "Collaborated effectively in a cross-functional team environment to deliver business outcomes, focusing on user-centric problem-solving",
+            "Resolved complex technical incidents and bugs during <strong>QA</strong> phases using <strong>Jira</strong>, reducing post-launch defects by <strong>40%</strong> and ensuring high system reliability for end-users"]
+
+        }
+    ]
+}
