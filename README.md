@@ -1,7 +1,7 @@
 # My Portfolio Website
-Welcome to my Portfolio Website Repo! I built this application using ReactJs and uses Sass styling. I developed this application to be able to showcase my projects, skills, certifications and have people easily contact me. Check it [out!] (https://mohammad-portfolio-website.vercel.app/)
+Welcome to my Portfolio Website Repo! I built this application using ReactJs and uses Sass styling. I developed this application to be able to showcase my projects, skills, certifications and have people easily contact me. Check it [out!](https://mohammad-portfolio-website.vercel.app/)
 
-![Website Thumbnail](/portfolio-website/public/Thumbnail.png)
+![Website Thumbnail](/public/Thumbnail.png)
 
 # How to Run
 
