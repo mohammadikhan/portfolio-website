@@ -2,14 +2,26 @@ import { useState } from 'react'
 import './App.scss'
 import { Routes, Route } from 'react-router-dom'
 import Layout from './components/Layout'
+import Home from './components/Home'
+import About from './components/About'
+import Work from './components/Work'
+import Contact from './components/Contact'
+import Certification from './components/Certification'
+import Projects from './components/Projects'
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
     <>
       <Routes>
-        <Route path="/" element={<Layout/>} />
+        <Route path="/" element={<Layout/>}>
+          <Route index element={<Home/>} />
+          <Route path="about" element={<About/>} />
+          <Route path="work" element={<Work/>}/>
+          <Route path="contact" element={<Contact/>} />
+          <Route path="certifications" element={<Certification/>} />
+          <Route path="projects" element={<Projects/>}/>
+
+        </Route>
       </Routes>
     </>
   )
