@@ -1,5 +1,5 @@
 import { Link, NavLink } from "react-router-dom"
-import LogoM from '../../assets/images/MK.png'
+import LogoM from '../../assets/images/Name.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faEnvelope, faHome, faUser, faLightbulb, faBriefcase, faCertificate} from '@fortawesome/free-solid-svg-icons'
 import { faGithub, faInstagram, faLinkedin, faYoutube } from '@fortawesome/free-brands-svg-icons'
@@ -10,7 +10,7 @@ const Sidebar = () => {
     return (
         <div className="nav-bar">
             <Link className="logo" to="/">
-                <img src={LogoM} alt="logo" />
+                <img className="name-logo" src={LogoM} alt="logo" />
             </Link>
             <nav>
                 <NavLink exact="true" activeclassname="active" to="/">
