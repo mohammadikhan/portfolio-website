@@ -34,7 +34,8 @@ const Contact = () => {
         .then(
             () => {
                 alert('[SUCCESS]: Message successfully sent! Thank you for reaching out! I will get back to you as soon as possible.')
-                window.location.reload(false)
+                // window.location.reload(false)
+                refForm.current.reset();
             },
             () => {
                 alert('[ERROR]: Failed to send the message, please try again.')
