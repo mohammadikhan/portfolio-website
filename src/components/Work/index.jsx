@@ -4,6 +4,7 @@ import MK from '../../assets/images/Name.png';
 import './index.scss';
 import JobCard from './JobCard';
 import jobData from '../../data/jobData.json'
+import Loader from 'react-loaders';
 
 const Work = () => {
     
@@ -32,6 +33,7 @@ const Work = () => {
                     <JobCard key={index} job={job} />
                 ))}
             </div>
+            <Loader type="pacman"/>
         </>
     )
 };
