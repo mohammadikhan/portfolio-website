@@ -2,6 +2,12 @@
     "projects": [
         {
             "cover": "/projects/FND.png",
+            "title": "VeloRoute - Full-Stack Cycling Analytics Engine",
+            "stack": "Java (Spring Boot), JavaScript, Node.js, React, AWS, Docker, PostgreSQL",
+            "url": "https://github.com/mohammadikhan/velo-route"
+        },
+        {
+            "cover": "/projects/biking.gif",
             "title": "VeriNews - AI-Powered Fake News Detector",
             "stack": "JavaScript, Python, Node.js, React, Hugging Face Transformers, Docker, MongoDB",
             "url": "https://github.com/mohammadikhan/fake-news-detector"
